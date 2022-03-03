@@ -1,0 +1,11 @@
+<div class="current-projects flex-container image-container">
+
+{% include project name="Provenance for Reproducibility" caption="" image="provenance.png" link="http://localhost:8888/projects/provenanceanalysis" %}
+
+{% include project name="Advanced Containers for Reproducible Science" caption="" image="container.png" link="http://localhost:8888/projects/advancedcontainers" %}
+
+{% include project name="Reproducibility Infrastructure" caption="" image="infrastructure.png" link="http://localhost:8888/projects/reprobench" %}
+
+{% include project name="Reproducible Policies" caption="" image="policy.png" link="http://localhost:8888/projects/adae" %}
+
+</div>

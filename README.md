@@ -2,6 +2,7 @@
 
 Website for the DICE Lab.
 See the site in action at [dice.cs.depaul.edu](http://dice.cs.depaul.edu/).
+Dice stands for Data, Infrastructure, Computation and Environments group. 
 
 Write your recent news into the news data file [`_data/news.yml`](_data/news.yml).
 

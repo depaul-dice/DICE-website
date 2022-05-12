@@ -10,7 +10,7 @@ id: "courses"
 ## Graduate Level
 
 * [CSC 453](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?CrseId=001490), Principles of Database Management Systems 
-* [CSC 553](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?CrseId=007742), Advanced Database Concepts
+* [CSC 553](https://dice.cs.depaul.edu/Courses/553/index.html), Advanced Database Concepts
 * [CSC 595](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?CrseId=012215), Topics in Computer Science (Light-weight Virtual Machines)
 * [DSC 450](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?CrseId=012815), Database Processing for Large-Scale Analytics
 * [CSC 543](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?CrseId=008475), Spatial Databases and Geographic Information Systems

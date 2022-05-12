@@ -1,3 +1,11 @@
+- date: 2022-05-01
+  description: >
+          DICE lab is funded by the [NASA AIST program](https://esto.nasa.gov/project-selections-for-aist-21/) for advancing reproducible containers to collaborative analytics!! Elated to extend [Sciunit](http://sciunit.run) to NASA workflows!! 
+
+- date: 2022-04-23
+  description: >
+        'Expanding the Scope of Artifact Evaluation at HPC Conferences: Experience of SC21' accepted to PRECS workshop at HPDC. Thanks to [Anjo Vahldiek-Oberwagner](https://vahldiek.github.io) for collaborating on this. 
+
 - date: 2022-02-22
   description: >
       [Tanu Malik](http://facsrv.cs.depaul.edu/~tmalik1) presents [Reproducibility and Transparency Practices in HPC](https://meetings.siam.org/sess/dsp_talk.cfm?p=117798) at 2022 SIAM Conference on Parallel Processing for Scientific Computing. 
